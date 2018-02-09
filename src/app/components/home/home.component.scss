@@ -1,0 +1,19 @@
+#main-wrapper{
+    position: relative;
+    overflow: scroll;
+    margin-top: 95vh;
+}
+#main-image{
+    width: 100%;
+    height: 95vh;
+    background-image: url('../../../assets/Images/london-scout-41030.jpg');
+    background-repeat: no-repeat;
+    background-size: cover;
+    position: fixed;
+    top: 0px;
+    z-index: -1;
+}
+#home-body{
+    background: white;
+    z-index: 1;
+}
